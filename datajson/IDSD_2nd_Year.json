@@ -1,0 +1,783 @@
+[
+  {
+    "subject": "semester 1",
+    "id": "1axJulhv6tOetPIxE2rdz3tzKNlkcD88R",
+    "link": "https://drive.google.com/drive/folders/1axJulhv6tOetPIxE2rdz3tzKNlkcD88R",
+    "files": [],
+    "subfolders": [
+      {
+        "name": "Français",
+        "id": "14d5HoBhGyTkbbJpAlfOWTdqHqgOEvsd7",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/14d5HoBhGyTkbbJpAlfOWTdqHqgOEvsd7",
+        "icon": "fas fa-folder",
+        "files": [],
+        "subfolders": []
+      },
+      {
+        "name": "English",
+        "id": "1jo4HFh-mozlP7PCpVZdlwMRIeqWWOxbl",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1jo4HFh-mozlP7PCpVZdlwMRIeqWWOxbl",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "GENERAL-SUMMARY-SMESTER-1.pdf",
+            "id": "1UlFDwqWgGZONhdlhst-dSJoMFnIojSfe",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1UlFDwqWgGZONhdlhst-dSJoMFnIojSfe/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Scrum et Leadership",
+        "id": "1jQAPtCXdXTuDFfywPH-1liygVGQKFJyE",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1jQAPtCXdXTuDFfywPH-1liygVGQKFJyE",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "Chpitre-SCRUM-fr (1).pdf",
+            "id": "1ymQAQf1-w3IwcQCHfiB5-vbwbhxo-vab",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1ymQAQf1-w3IwcQCHfiB5-vbwbhxo-vab/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "Chpitre-SCRUM-23.24 (2).pdf",
+            "id": "1O72yOxc3OWhnQyf9k85BBDmOu6zUzO-v",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1O72yOxc3OWhnQyf9k85BBDmOu6zUzO-v/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Développement Web dynamique",
+        "id": "1lQOIYyFGMkAbSN6UFH0HDOJmlVuHopTg",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1lQOIYyFGMkAbSN6UFH0HDOJmlVuHopTg",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "TP",
+            "id": "1dDItf_Zva3hVrHX7bnuMMMnVkR91f5R_",
+            "mimeType": "application/vnd.google-apps.folder",
+            "link": "https://drive.google.com/drive/folders/1dDItf_Zva3hVrHX7bnuMMMnVkR91f5R_",
+            "icon": "fas fa-folder"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "JAVA avancé ",
+        "id": "19WG6VWKXAeDJe5XC4ort_eEKX1-idPPN",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/19WG6VWKXAeDJe5XC4ort_eEKX1-idPPN",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "TP3IDSD.pdf",
+            "id": "1oKZroJlIjzXlRwt1fWwvmjzo62v62aqG",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1oKZroJlIjzXlRwt1fWwvmjzo62v62aqG/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "TP2.pdf",
+            "id": "1SvMwbcw-7obNiUwpzkxNsXinggy650hS",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1SvMwbcw-7obNiUwpzkxNsXinggy650hS/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "TP1IDSD.pdf",
+            "id": "1Lkdm-1M0you8EzQYlpx64nmcUedJb-8T",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1Lkdm-1M0you8EzQYlpx64nmcUedJb-8T/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "TP2",
+            "id": "160HEbI9W4cKa_E1-lyNABTocAQDgUf61",
+            "mimeType": "application/vnd.google-apps.folder",
+            "link": "https://drive.google.com/drive/folders/160HEbI9W4cKa_E1-lyNABTocAQDgUf61",
+            "icon": "fas fa-folder"
+          },
+          {
+            "name": "TP1",
+            "id": "1wzsOiBjzaReyEu2iTvSm0ADw346tVhQb",
+            "mimeType": "application/vnd.google-apps.folder",
+            "link": "https://drive.google.com/drive/folders/1wzsOiBjzaReyEu2iTvSm0ADw346tVhQb",
+            "icon": "fas fa-folder"
+          },
+          {
+            "name": "mysql-connector-java-5.1.15-bin.jar",
+            "id": "1N66TPrGWHS8_NiAqXfb2g9psU-Zd-tgv",
+            "mimeType": "application/java-archive",
+            "link": "https://drive.google.com/file/d/1N66TPrGWHS8_NiAqXfb2g9psU-Zd-tgv/view?usp=drive_link",
+            "icon": "fas fa-file"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Fondements de la sécurité ",
+        "id": "1jfg8VGTiFxG_gtJpfGCsuXIazR_yQbIH",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1jfg8VGTiFxG_gtJpfGCsuXIazR_yQbIH",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "TD2_Fond 2023_avec_correction.pdf",
+            "id": "1hX1q39Tr452tNeC8cQhzXdBK6ME2W7E6",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1hX1q39Tr452tNeC8cQhzXdBK6ME2W7E6/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "Correction_TD_Firewall_2022.pdf",
+            "id": "1rQPOQzf80ml9t9fs-cNI7L4X98JlKqEC",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1rQPOQzf80ml9t9fs-cNI7L4X98JlKqEC/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "TD1 idsd_avec_correction_VF.pdf",
+            "id": "1vmJKLTwpp75-QozJjQut04uDisdSUUwS",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1vmJKLTwpp75-QozJjQut04uDisdSUUwS/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Traitement d'images et de vidéos",
+        "id": "1lhPbnS7gAjymF3s_L_bdBrinR6CEVSoy",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1lhPbnS7gAjymF3s_L_bdBrinR6CEVSoy",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "Tp",
+            "id": "1OXmE4eBYw47petvczMo7QksR70ZD_kPw",
+            "mimeType": "application/vnd.google-apps.folder",
+            "link": "https://drive.google.com/drive/folders/1OXmE4eBYw47petvczMo7QksR70ZD_kPw",
+            "icon": "fas fa-folder"
+          },
+          {
+            "name": "TD",
+            "id": "17rXymjI4douz7YcepffF7DtEjpkJU4jS",
+            "mimeType": "application/vnd.google-apps.folder",
+            "link": "https://drive.google.com/drive/folders/17rXymjI4douz7YcepffF7DtEjpkJU4jS",
+            "icon": "fas fa-folder"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Base de données NoSQL",
+        "id": "113ecXwA_SRb5OrzQXZd-704_0Rgd78Hc",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/113ecXwA_SRb5OrzQXZd-704_0Rgd78Hc",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "netflix_shows.csv",
+            "id": "1_IahwLScI-Z1OF3RInSLcIWM-KHNvTgX",
+            "mimeType": "text/csv",
+            "link": "https://drive.google.com/file/d/1_IahwLScI-Z1OF3RInSLcIWM-KHNvTgX/view?usp=drive_link",
+            "icon": "fas fa-file"
+          },
+          {
+            "name": "netflix_users_shows.json",
+            "id": "1L61vMwI-Snd7_T11khLMn6b8U4V2rSaK",
+            "mimeType": "application/json",
+            "link": "https://drive.google.com/file/d/1L61vMwI-Snd7_T11khLMn6b8U4V2rSaK/view?usp=drive_link",
+            "icon": "fas fa-file"
+          },
+          {
+            "name": "netflix_users.csv",
+            "id": "1Z-mfe5uBOF1JwRdp8LvpIj9HVF8cIk-J",
+            "mimeType": "text/csv",
+            "link": "https://drive.google.com/file/d/1Z-mfe5uBOF1JwRdp8LvpIj9HVF8cIk-J/view?usp=drive_link",
+            "icon": "fas fa-file"
+          },
+          {
+            "name": "TP2-MongoDB-Netflix.docx",
+            "id": "1aEJvHnqnqr0Fcg4A6QQuh7bOnjHFFHNY",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "link": "https://drive.google.com/file/d/1aEJvHnqnqr0Fcg4A6QQuh7bOnjHFFHNY/view?usp=drive_link",
+            "icon": "fas fa-file-word"
+          },
+          {
+            "name": "TP1-MongoDB.docx",
+            "id": "1w4jpU2TklJtFJpPN31rGjd-ZX037S5m6",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "link": "https://drive.google.com/file/d/1w4jpU2TklJtFJpPN31rGjd-ZX037S5m6/view?usp=drive_link",
+            "icon": "fas fa-file-word"
+          },
+          {
+            "name": "TP2-MongoDB.docx",
+            "id": "1kTlmqwHDmPs0AqA5G7V-jhQyU7SB2BBQ",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "link": "https://drive.google.com/file/d/1kTlmqwHDmPs0AqA5G7V-jhQyU7SB2BBQ/view?usp=drive_link",
+            "icon": "fas fa-file-word"
+          },
+          {
+            "name": "TP2-MongoDB",
+            "id": "170XST1Ei44-LdZcBrJgkAbE9B9tOYmthOUPDq5gEK_c",
+            "mimeType": "application/vnd.google-apps.document",
+            "link": "https://drive.google.com/file/d/170XST1Ei44-LdZcBrJgkAbE9B9tOYmthOUPDq5gEK_c/view?usp=drive_link",
+            "icon": "fas fa-file"
+          },
+          {
+            "name": "TP2-MongoDB-correction.docx",
+            "id": "1wVEJIupLnaVdxC2nFTWxgdStV_cEmTAG",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "link": "https://drive.google.com/file/d/1wVEJIupLnaVdxC2nFTWxgdStV_cEmTAG/view?usp=drive_link",
+            "icon": "fas fa-file-word"
+          },
+          {
+            "name": "2IDSD.Auteurs.json",
+            "id": "1YuX80DImKPZEHAhqwbd4nNgBXLs4erzW",
+            "mimeType": "application/json",
+            "link": "https://drive.google.com/file/d/1YuX80DImKPZEHAhqwbd4nNgBXLs4erzW/view?usp=drive_link",
+            "icon": "fas fa-file"
+          },
+          {
+            "name": "Utilisateurs.json",
+            "id": "15MCeiJxP6z8NQxSplzA6U0hLK1O8SZ7f",
+            "mimeType": "application/json",
+            "link": "https://drive.google.com/file/d/15MCeiJxP6z8NQxSplzA6U0hLK1O8SZ7f/view?usp=drive_link",
+            "icon": "fas fa-file"
+          },
+          {
+            "name": "2IDSD.Livres.json",
+            "id": "1UqOWveztGHndC_AFxiMPf-x4IbjD38nM",
+            "mimeType": "application/json",
+            "link": "https://drive.google.com/file/d/1UqOWveztGHndC_AFxiMPf-x4IbjD38nM/view?usp=drive_link",
+            "icon": "fas fa-file"
+          },
+          {
+            "name": "Emprunts.json",
+            "id": "1y8T1t5YD550RsBzfVuJNvPNaHFo24g6_",
+            "mimeType": "application/json",
+            "link": "https://drive.google.com/file/d/1y8T1t5YD550RsBzfVuJNvPNaHFo24g6_/view?usp=drive_link",
+            "icon": "fas fa-file"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Méthodologie et conception orientée objet ",
+        "id": "15T1CPIj3ypGzK2UqeAbArPBSQVmFaQLp",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/15T1CPIj3ypGzK2UqeAbArPBSQVmFaQLp",
+        "icon": "fas fa-folder",
+        "files": [],
+        "subfolders": []
+      },
+      {
+        "name": "Data Wrangling",
+        "id": "1EKwwba0lQzZDM6GDasw41JI0-ZE-7jHZ",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1EKwwba0lQzZDM6GDasw41JI0-ZE-7jHZ",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "Titanic_ML.ipynb",
+            "id": "1uT21O9yzz_lsip6cP0uwBPVSz_dfYSsD",
+            "mimeType": "application/octet-stream",
+            "link": "https://drive.google.com/file/d/1uT21O9yzz_lsip6cP0uwBPVSz_dfYSsD/view?usp=drive_link",
+            "icon": "fas fa-file"
+          },
+          {
+            "name": "exercice_join.docx",
+            "id": "1Ms0J-_M1GVY1gvoNUl3UhXugZVWk8pbZ",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "link": "https://drive.google.com/file/d/1Ms0J-_M1GVY1gvoNUl3UhXugZVWk8pbZ/view?usp=drive_link",
+            "icon": "fas fa-file-word"
+          },
+          {
+            "name": "dta_wrangling.pptx",
+            "id": "18frNCdTY_Of-sM81Xb1J8mvhs5NAT_zq",
+            "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "link": "https://drive.google.com/file/d/18frNCdTY_Of-sM81Xb1J8mvhs5NAT_zq/view?usp=drive_link",
+            "icon": "fas fa-file-powerpoint"
+          },
+          {
+            "name": "country.csv",
+            "id": "1IqI9dKPtZ0OPZmyVFvk13GCfV6880eAK",
+            "mimeType": "text/csv",
+            "link": "https://drive.google.com/file/d/1IqI9dKPtZ0OPZmyVFvk13GCfV6880eAK/view?usp=drive_link",
+            "icon": "fas fa-file"
+          },
+          {
+            "name": "exercice3.docx",
+            "id": "1uXcIEKB7jhzA39RM6HOVVomJO5ord2kv",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "link": "https://drive.google.com/file/d/1uXcIEKB7jhzA39RM6HOVVomJO5ord2kv/view?usp=drive_link",
+            "icon": "fas fa-file-word"
+          },
+          {
+            "name": "groupBy.ipynb",
+            "id": "1u7yMwdFPnwAAiN2eJSsHbtRsTXPhLfSZ",
+            "mimeType": "application/octet-stream",
+            "link": "https://drive.google.com/file/d/1u7yMwdFPnwAAiN2eJSsHbtRsTXPhLfSZ/view?usp=drive_link",
+            "icon": "fas fa-file"
+          },
+          {
+            "name": "Data_wrangling_Seance2 (enseignant).ipynb",
+            "id": "1MumnjhzwKojYvrxRyoevuz08AWP7HwXe",
+            "mimeType": "application/octet-stream",
+            "link": "https://drive.google.com/file/d/1MumnjhzwKojYvrxRyoevuz08AWP7HwXe/view?usp=drive_link",
+            "icon": "fas fa-file"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Machine Learning ",
+        "id": "14kKhNMx_2ZuyQV_ed9MIIoL8IHjhR99x",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/14kKhNMx_2ZuyQV_ed9MIIoL8IHjhR99x",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "TD 2 Machine Learning 2 IDSD 2023-2024.pdf",
+            "id": "1iWoVxZ4FpV5zVe0oAqJMTmI-5zY3PiQh",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1iWoVxZ4FpV5zVe0oAqJMTmI-5zY3PiQh/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "tp3",
+            "id": "1c7eEqxEi53FxZuOuAsyWYEMhQgmwpIcr",
+            "mimeType": "application/vnd.google-apps.folder",
+            "link": "https://drive.google.com/drive/folders/1c7eEqxEi53FxZuOuAsyWYEMhQgmwpIcr",
+            "icon": "fas fa-folder"
+          },
+          {
+            "name": "TD1 Machine Learning 2 IDSD 2023-2024.pdf",
+            "id": "1eDjNqEk4h7WLjsIfRQSl_025Bd7DLZRm",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1eDjNqEk4h7WLjsIfRQSl_025Bd7DLZRm/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "tp1",
+            "id": "10tTrpeLLwEQ8Vd-O_vmRg0bYSCYHCPAY",
+            "mimeType": "application/vnd.google-apps.folder",
+            "link": "https://drive.google.com/drive/folders/10tTrpeLLwEQ8Vd-O_vmRg0bYSCYHCPAY",
+            "icon": "fas fa-folder"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Statistiques non paramétriques",
+        "id": "14wcaR8mA0hsVedN_VK0-2psXktDycy4W",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/14wcaR8mA0hsVedN_VK0-2psXktDycy4W",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "TD 2 Statistique non parametrique 2 IDSD 2023-2024 (2).pdf",
+            "id": "13S7nbw2Tz3E2KmriWoUZTtQJCrg8BF7J",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/13S7nbw2Tz3E2KmriWoUZTtQJCrg8BF7J/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "TD1 Statistique non Paramétrique 2 IDSD",
+            "id": "1Ew6ssLeK-6XozAucKF7X3zb-x_YU9woE0mLt3gtpoow",
+            "mimeType": "application/vnd.google-apps.document",
+            "link": "https://drive.google.com/file/d/1Ew6ssLeK-6XozAucKF7X3zb-x_YU9woE0mLt3gtpoow/view?usp=drive_link",
+            "icon": "fas fa-file"
+          },
+          {
+            "name": "TD1 Statistique non Paramétrique 2 IDSD.pdf",
+            "id": "1eUqji4iaw5tenKG-3Cds0UkX_HdvKZVA",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1eUqji4iaw5tenKG-3Cds0UkX_HdvKZVA/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Heureustique et métaheuristique (optimisation approchée)",
+        "id": "1petFX3Yq17mTjRk3ZcAfCw2uELz1tJH_",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1petFX3Yq17mTjRk3ZcAfCw2uELz1tJH_",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "TD",
+            "id": "1NTvvxGMaQNe0FKTRlkfqyhW2MbN5Qclu",
+            "mimeType": "application/vnd.google-apps.folder",
+            "link": "https://drive.google.com/drive/folders/1NTvvxGMaQNe0FKTRlkfqyhW2MbN5Qclu",
+            "icon": "fas fa-folder"
+          }
+        ],
+        "subfolders": []
+      }
+    ]
+  },
+  {
+    "subject": "semester 2",
+    "id": "1gdSfzKJZPdsl0YVLxN1D_M1rjK5Fsbz0",
+    "link": "https://drive.google.com/drive/folders/1gdSfzKJZPdsl0YVLxN1D_M1rjK5Fsbz0",
+    "files": [],
+    "subfolders": [
+      {
+        "name": "Francais",
+        "id": "1mKMByNN6IoDzFz0DPtxtdTda6HMHxnW0",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1mKMByNN6IoDzFz0DPtxtdTda6HMHxnW0",
+        "icon": "fas fa-folder",
+        "files": [],
+        "subfolders": []
+      },
+      {
+        "name": "English",
+        "id": "1XWKKvFDWOpl4RRtCc12haZT-XXkH--Pv",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1XWKKvFDWOpl4RRtCc12haZT-XXkH--Pv",
+        "icon": "fas fa-folder",
+        "files": [],
+        "subfolders": []
+      },
+      {
+        "name": "Sigma",
+        "id": "1uO66FQF0zSWaUHW0iWENCxabPgZLQPBk",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1uO66FQF0zSWaUHW0iWENCxabPgZLQPBk",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "LSS-Define-Français 26-02-2024.pptx",
+            "id": "1mX297cMJD8ob-ysnFqUEirief_P0WDKO",
+            "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "link": "https://drive.google.com/file/d/1mX297cMJD8ob-ysnFqUEirief_P0WDKO/view?usp=drive_link",
+            "icon": "fas fa-file-powerpoint"
+          },
+          {
+            "name": "LSS 2024 actualisé.pptx",
+            "id": "15a8f6G1JC3wc2BCflyiyBY2rPlP3Z9EC",
+            "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "link": "https://drive.google.com/file/d/15a8f6G1JC3wc2BCflyiyBY2rPlP3Z9EC/view?usp=drive_link",
+            "icon": "fas fa-file-powerpoint"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "JEE ",
+        "id": "1SI4P0XI4rSrAbFu314ymgYkUjte4RJ0W",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1SI4P0XI4rSrAbFu314ymgYkUjte4RJ0W",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "TP",
+            "id": "1E-hP26269Wdnbm5ez7tAECbUEkO4GpCA",
+            "mimeType": "application/vnd.google-apps.folder",
+            "link": "https://drive.google.com/drive/folders/1E-hP26269Wdnbm5ez7tAECbUEkO4GpCA",
+            "icon": "fas fa-folder"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Programmation mobile",
+        "id": "1rKGi5CEp6OWBQvmxfGjtTv_XZQiDFNk6",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1rKGi5CEp6OWBQvmxfGjtTv_XZQiDFNk6",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "TP",
+            "id": "1h8X4qdkSU-kb_SGu-pSxQ5W_rjaVKwXK",
+            "mimeType": "application/vnd.google-apps.folder",
+            "link": "https://drive.google.com/drive/folders/1h8X4qdkSU-kb_SGu-pSxQ5W_rjaVKwXK",
+            "icon": "fas fa-folder"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Cloud et virtualisation",
+        "id": "1Hgst6ppM7GbCROvrxNUo261pnl8W90ys",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1Hgst6ppM7GbCROvrxNUo261pnl8W90ys",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "Cours virtualisation et cloud.pdf",
+            "id": "1Vi37Ji5mStLJ33Nx9Ge4V7740LkqLCDw",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1Vi37Ji5mStLJ33Nx9Ge4V7740LkqLCDw/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Atelier données massives et IoT ",
+        "id": "1XEUXFzzs5UtqpPyIDqRfpJGbc4B5sV8H",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1XEUXFzzs5UtqpPyIDqRfpJGbc4B5sV8H",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "TP",
+            "id": "1Y-mf5WZsNTQN22zCLKTAQjiUdoVQAjj0",
+            "mimeType": "application/vnd.google-apps.folder",
+            "link": "https://drive.google.com/drive/folders/1Y-mf5WZsNTQN22zCLKTAQjiUdoVQAjj0",
+            "icon": "fas fa-folder"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Big Data",
+        "id": "1XDdNtO2dVk08QpqAsm_YRanIBmJIWHdA",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1XDdNtO2dVk08QpqAsm_YRanIBmJIWHdA",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "Ordinateur.txt",
+            "id": "1FnWsnVWwwElzt2H5DQZA63VHaAo3ycx1",
+            "mimeType": "text/plain",
+            "link": "https://drive.google.com/file/d/1FnWsnVWwwElzt2H5DQZA63VHaAo3ycx1/view?usp=drive_link",
+            "icon": "fas fa-file"
+          },
+          {
+            "name": "LigneCommande.txt",
+            "id": "1M9ny92qVmx2CbpNaZUhAPrfhpsgvLZ1D",
+            "mimeType": "text/plain",
+            "link": "https://drive.google.com/file/d/1M9ny92qVmx2CbpNaZUhAPrfhpsgvLZ1D/view?usp=drive_link",
+            "icon": "fas fa-file"
+          },
+          {
+            "name": "Magasin.txt",
+            "id": "1X6ZXUSUzoA8x9ie8ts-hvu4-0C7hHBzU",
+            "mimeType": "text/plain",
+            "link": "https://drive.google.com/file/d/1X6ZXUSUzoA8x9ie8ts-hvu4-0C7hHBzU/view?usp=drive_link",
+            "icon": "fas fa-file"
+          },
+          {
+            "name": "Commande.txt",
+            "id": "1NbRMqSuB8xZxePKkEiQ7hjyb2rdP6d6o",
+            "mimeType": "text/plain",
+            "link": "https://drive.google.com/file/d/1NbRMqSuB8xZxePKkEiQ7hjyb2rdP6d6o/view?usp=drive_link",
+            "icon": "fas fa-file"
+          },
+          {
+            "name": "Hive Tutore 3.pdf",
+            "id": "1bd0mTih8ajLMnTMe_ifyRZb705TnTEmR",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1bd0mTih8ajLMnTMe_ifyRZb705TnTEmR/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Data Lake ",
+        "id": "1ruwwxP301GwR2sH4-TZbUBM8yDPfVzmL",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1ruwwxP301GwR2sH4-TZbUBM8yDPfVzmL",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "Architecture Lambda.pdf",
+            "id": "1JbIIC-B7rYo-T--CY6ucAGss-_eBTX0T",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1JbIIC-B7rYo-T--CY6ucAGss-_eBTX0T/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "OLTP et OLAP.pdf",
+            "id": "1J01re6dbK2GGCRyv6MSuXBayE6-awuub",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1J01re6dbK2GGCRyv6MSuXBayE6-awuub/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "BD et ED.pdf",
+            "id": "1Vprp0OitN3XiRkrDHGvNtpomZFUB0v-y",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1Vprp0OitN3XiRkrDHGvNtpomZFUB0v-y/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "Vue et Vue matérialisée.pdf",
+            "id": "1Jo0GwwS5biVUSQShtTWuMb9jjlXDtwfn",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1Jo0GwwS5biVUSQShtTWuMb9jjlXDtwfn/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "TOS_DI-20180411_1414-V7.0.1",
+            "id": "12BN8m_OEK-7X4w44yVa6LvZC0g1dYWe1",
+            "mimeType": "application/vnd.google-apps.folder",
+            "link": "https://drive.google.com/drive/folders/12BN8m_OEK-7X4w44yVa6LvZC0g1dYWe1",
+            "icon": "fas fa-folder"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Programmation Scala",
+        "id": "1a9oeRabdL4WhzCpumL9751_n9sGYKMAj",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1a9oeRabdL4WhzCpumL9751_n9sGYKMAj",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "Correction TD3",
+            "id": "1XCMsw0qvSo2c4_pUvY_81sjZscF28LgE",
+            "mimeType": "application/vnd.google-apps.folder",
+            "link": "https://drive.google.com/drive/folders/1XCMsw0qvSo2c4_pUvY_81sjZscF28LgE",
+            "icon": "fas fa-folder"
+          },
+          {
+            "name": "Correction TD4",
+            "id": "11PmPBOt5TBBuiBr4r_vUXxgSwU6znZBR",
+            "mimeType": "application/vnd.google-apps.folder",
+            "link": "https://drive.google.com/drive/folders/11PmPBOt5TBBuiBr4r_vUXxgSwU6znZBR",
+            "icon": "fas fa-folder"
+          },
+          {
+            "name": "DS-Scala.pdf",
+            "id": "1DjDuCAb1lsE8S5DMFy8PEZWzqdyaFzGU",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1DjDuCAb1lsE8S5DMFy8PEZWzqdyaFzGU/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "Scala td 1.pdf",
+            "id": "1SkEu6-UCjn1SM8N_JPfzWbucbVtG63Wr",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1SkEu6-UCjn1SM8N_JPfzWbucbVtG63Wr/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "Scala td 2.pdf",
+            "id": "1ntmObmcI7qCNpv8tnp_7jsMiYe98PM0V",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1ntmObmcI7qCNpv8tnp_7jsMiYe98PM0V/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "Scala td 4.pdf",
+            "id": "1MnuVl1XqVxsXlBtR0XINf5cqNbC8nxOJ",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1MnuVl1XqVxsXlBtR0XINf5cqNbC8nxOJ/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "Scala td 3.pdf",
+            "id": "1VkyJtkOVkDkCsBxmwXMye8-ZI5M455I2",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1VkyJtkOVkDkCsBxmwXMye8-ZI5M455I2/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Internet des objets (IoT)",
+        "id": "1wx_Cc5DxRF8skWNESgwi9HrneL3lXU2c",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1wx_Cc5DxRF8skWNESgwi9HrneL3lXU2c",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "TP",
+            "id": "1Se9gnXMMGfwIbtPKPytkK_OjOYjlCiqZ",
+            "mimeType": "application/vnd.google-apps.folder",
+            "link": "https://drive.google.com/drive/folders/1Se9gnXMMGfwIbtPKPytkK_OjOYjlCiqZ",
+            "icon": "fas fa-folder"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Gestion financière",
+        "id": "1edT7YVubZSloWlWaMyxrmJj1MfEBIcr-",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1edT7YVubZSloWlWaMyxrmJj1MfEBIcr-",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "Correction application 2.pdf",
+            "id": "1uZgSk41eoXFjDBHDoNq2voZ9eOi0gKh4",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1uZgSk41eoXFjDBHDoNq2voZ9eOi0gKh4/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          },
+          {
+            "name": "Application 2.pdf",
+            "id": "1EZ2uGPTymoESVUS6AMH1ojym2Imwsj9V",
+            "mimeType": "application/pdf",
+            "link": "https://drive.google.com/file/d/1EZ2uGPTymoESVUS6AMH1ojym2Imwsj9V/view?usp=drive_link",
+            "icon": "fas fa-file-pdf"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Atelier Dataviz ",
+        "id": "1BaI2ucyoewySnBoxdyxXb9tZY3sfHoFh",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1BaI2ucyoewySnBoxdyxXb9tZY3sfHoFh",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "TP",
+            "id": "1gAZ-x_xJFQUN7aDRJhAHJyWsF-AjmHv6",
+            "mimeType": "application/vnd.google-apps.folder",
+            "link": "https://drive.google.com/drive/folders/1gAZ-x_xJFQUN7aDRJhAHJyWsF-AjmHv6",
+            "icon": "fas fa-folder"
+          }
+        ],
+        "subfolders": []
+      },
+      {
+        "name": "Deep Learning (Préparation à la certification HCIA-AI) ",
+        "id": "1a-z9m_y54Ik50x6bvMkvN7_dpzj9x3_S",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1a-z9m_y54Ik50x6bvMkvN7_dpzj9x3_S",
+        "icon": "fas fa-folder",
+        "files": [],
+        "subfolders": []
+      },
+      {
+        "name": "Méthodes Monte Carlo",
+        "id": "1PbJiXmjKRIPSvZnajHCV_07V0tMZdDSQ",
+        "mimeType": "application/vnd.google-apps.folder",
+        "link": "https://drive.google.com/drive/folders/1PbJiXmjKRIPSvZnajHCV_07V0tMZdDSQ",
+        "icon": "fas fa-folder",
+        "files": [
+          {
+            "name": "TD",
+            "id": "1e81qMVdDInlq3VpmV-pSXky64cmnlkML",
+            "mimeType": "application/vnd.google-apps.folder",
+            "link": "https://drive.google.com/drive/folders/1e81qMVdDInlq3VpmV-pSXky64cmnlkML",
+            "icon": "fas fa-folder"
+          }
+        ],
+        "subfolders": []
+      }
+    ]
+  }
+]
